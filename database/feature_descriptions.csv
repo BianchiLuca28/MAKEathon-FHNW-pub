@@ -1,0 +1,21 @@
+Feature,Description
+age,Customer's age in years.
+balance_cash,"Total balance in liquid cash assets across all product categories, including payment accounts, savings accounts, and non-invested cash."
+balance_investment,"Total invested cash in financial instruments, such as stocks, bonds, and mutual funds, excluding pillar 3 accounts."
+balance_pension,"Balance in customer's pension accounts, capturing retirement-related savings."
+balance_3a,"Balance in all 3a accounts, including both cash and invested balance."
+app_logins,Number of app or webapp logins in the past month.
+income,Monthly income from salary or pension in CHF.
+has_twint,"Indicates whether the customer has a Twint account connected to their payment account (1 if yes, 0 if no)."
+has_credit_card,"Indicates whether the customer has a prepay or postpay credit card associated with their account (1 if yes, 0 if no)."
+has_partner_account,"Indicates if the customer has a joint account with a partner, with balances reflecting personal assets plus half of shared assets (1 if yes, 0 if no)."
+account_trx_ls_amount,"Total monthly amount of debit transactions, excluding those made with a debit or credit card."
+card_trx_ls_amount,Total monthly amount of debit transactions made with either a debit or credit card.
+investment_risk_score,"A risk profile rating from 1 to 5 of all investment products held, where 1 is low risk (all-cash or equivalents) and 5 is high risk (highly volatile assets like etherium)."
+vermoegenszuwachs_3mo,"Net change in the customer's wealth over the past 3 months, excluding securities price fluctuations."
+vermoegenszuwachs_6mo,"Net change in the customer's wealth over the past 6 months, excluding securities price fluctuations."
+residence_status_b,"Indicates if the customer holds a B permit for residency in Switzerland (1 if yes, 0 if no)."
+residence_status_c,"Indicates if the customer holds a C permit for residency in Switzerland (1 if yes, 0 if no)."
+residence_status_ch,"Indicates if the customer is a Swiss citizen (1 if yes, 0 if no)."
+residence_status_l,"Indicates if the customer holds an L permit for residency in Switzerland (1 if yes, 0 if no)."
+residence_status_s,"Indicates if the customer holds an S permit for residency in Switzerland (1 if yes, 0 if no)."

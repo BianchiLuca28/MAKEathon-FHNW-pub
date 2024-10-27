@@ -1,0 +1,5 @@
+age,balance_cash,balance_investment,balance_pension,balance_3a,app_logins,income,has_twint,has_credit_card,has_partner_account,residence_status,account_trx_ls_amount,card_trx_ls_amount,investment_risk_score,vermoegenszuwachs_3mo,vermoegenszuwachs_6mo,TARGET,rs_ch,rs_c,rs_b,rs_aus,rs_l,rs_s,ID
+20.0,16761.9,0.0,0.0,0.0,0,6270.44,1,0,0,ch,1776.51,1771.26,0,5351.22,16816.76,0,True,False,False,False,False,False,66002
+51.0,8551.18,0.0,0.0,0.0,27,0.0,0,0,0,b,5477.55,191.08,0,2729.49,8577.7,0,False,False,True,False,False,False,69572
+44.0,8872.3,0.0,0.0,4057.59,2,15350.99,0,0,1,aus,4108.36,4633.17,0,12661.69,39790.69,0,False,False,False,True,False,False,28515
+23.0,16277.93,0.0,278829.56,0.0,0,0.0,1,0,0,b,3348.96,5136.03,0,5196.68,16331.12,0,False,False,True,False,False,False,86447
